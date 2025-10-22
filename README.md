@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I'm Ubong!, a frontend developer and Ui designer, I create mobile applications and websites with JavaScript Frameworks and Flutter as you would see below.</p>
+<p align="left">Hello, I'm Ubong!, a dedicated Frontend developer and UI designer, I create mobile applications and websites with JavaScript Frameworks and Flutter. I am always ready and learn new thuings and collaborate with you all. thanks</p>
 
 ###
 
